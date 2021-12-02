@@ -21,7 +21,7 @@ def intToR(num):  # 数字转罗马数字,copy自 https://www.jianshu.com/p/c891
     return ''.join(roman)
 
 #初始化deepL
-translator = deepl.Translator("e3c66233-3860-6d4e-22dc-eabe4408a3ca:fx")
+translator = deepl.Translator("XXXXXXXXXXXXXXX你的DeepL 授权码")
 
 url = 'https://www.sciencedirect.com/journal/journal-of-corporate-finance/vol/70/suppl/C'
 headers = {
