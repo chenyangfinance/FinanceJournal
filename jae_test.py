@@ -20,8 +20,8 @@ def intToR(num):  # 数字转罗马数字,copy自 https://www.jianshu.com/p/c891
     roman.append(c['g'][num % 10])
     return ''.join(roman)
 
-#初始化deepL, 需要deepL授权码
-translator = deepl.Translator("你的deepL授权码")
+#初始化deepL
+translator = deepl.Translator("e3c66233-3860-6d4e-22dc-eabe4408a3ca:fx")
 
 url = 'https://www.sciencedirect.com/journal/journal-of-accounting-and-economics/vol/72/issue/2'
 headers = {
