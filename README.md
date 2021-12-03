@@ -9,3 +9,6 @@ JAE website: https://www.journals.elsevier.com/journal-of-accounting-and-economi
   
 2. jcf_test.py for Journal of Corporate Finance     
 JCF website: https://www.sciencedirect.com/journal/journal-of-corporate-finance
+  
+3. jbf_test.py for Journal of Banking and Finance     
+JCF website: https://www.sciencedirect.com/journal/journal-of-banking-and-finance
