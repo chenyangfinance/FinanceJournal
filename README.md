@@ -13,7 +13,7 @@ JCF website: https://www.sciencedirect.com/journal/journal-of-corporate-finance
 3. jbf_test.py for Journal of Banking and Finance     
 JCF website: https://www.sciencedirect.com/journal/journal-of-banking-and-finance
 
-20211225. 
+ver20211225. 
 
 Add:
 
